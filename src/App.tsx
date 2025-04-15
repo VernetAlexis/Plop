@@ -9,7 +9,7 @@ const router = createBrowserRouter([
     children: [
       {
         path: 'page1/',
-        element: <div>Page1</div>
+        element: <div>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Odit non molestiae aliquam? Nobis ratione aperiam doloribus modi eaque, impedit suscipit rem aspernatur, laudantium voluptatem officiis repudiandae. Obcaecati voluptate error est.</div>
       },
       {
         path: 'page2/',
